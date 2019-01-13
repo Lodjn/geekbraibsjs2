@@ -82,5 +82,5 @@ var menu = new Menu('my_menu', 'menu_class', items, subTypes);
 document.write(menu.render());
 
 /* Запустить для того чтобы удалить элемент, вместо item можно подставить любой другой объект
- содержащий id */
+ содержащий id  */
 // item1.remove();
